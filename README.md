@@ -1,6 +1,4 @@
 # CCST-102-LAT
-# Lat, Betina Grace C.
-# BSCS 3A
 
 https://github.com/user-attachments/assets/4c5a2aa7-086d-4bfa-904e-1c83a2190152
 
@@ -11,9 +9,13 @@ Objective: Familiarize students with various applications of machine learning in
 
 Instructions:
 •    Research and identify at least three different applications of machine learning across various domains (e.g., healthcare, finance, marketing).
+
 •    Create a presentation summarizing each application, including:
+
 o    The problem being solved
+
 o    The type of machine learning used (supervised, unsupervised, reinforcement)
+
 o    The impact of the solution
 
 ## WHAT IS MACHINE LEARNING?
@@ -46,7 +48,7 @@ Machine learning is a subfield of artificial intelligence that uses algorithms t
 
 **Impact of the Solution:** Machine learning models analyze vast amounts of climate data to predict future climate scenarios. This helps scientists and policymakers understand potential impacts and develop strategies to mitigate adverse effects, such as extreme weather events and rising sea levels.
 
-### 3. Entertainment: Personalized Recommendations
+###  Entertainment: Personalized Recommendations
 
 **Problem Being Solved:** Providing users with personalized content recommendations.
 
@@ -76,5 +78,8 @@ https://www.forbes.com/sites/enriquedans/2021/06/11/the-future-of-autonomous-veh
 https://embeddedcomputing.com/technology/ai-machine-learning/ai-logic-devices-worload-acceleration/real-world-application-of-machine-learning-in-networking?gad_source=1&gclid=Cj0KCQjw_sq2BhCUARIsAIVqmQvLLnT1YRGLVpZjDewFMc2ktQVuvHv7WYE78jLes9YF8AMCEWw-63UaAp9pEALw_wcB
 
 https://www.autosinnovate.org/initiatives/innovation/autonomous-vehicles/benefits-of-havs
+
+### Lat, Betina Grace C.
+### BSCS 3A
 
 # Thank you
