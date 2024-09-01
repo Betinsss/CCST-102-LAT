@@ -5,9 +5,11 @@ https://github.com/user-attachments/assets/4c5a2aa7-086d-4bfa-904e-1c83a2190152
 ## Laboratory Activities for Topic 1: Introduction to Machine Learning
 
 Lab Activity 1: Overview of Machine Learning Applications
+
 Objective: Familiarize students with various applications of machine learning in real-world scenarios.
 
 Instructions:
+
 •    Research and identify at least three different applications of machine learning across various domains (e.g., healthcare, finance, marketing).
 
 •    Create a presentation summarizing each application, including:
@@ -22,7 +24,7 @@ o    The impact of the solution
 
 Machine learning is a subfield of artificial intelligence that uses algorithms trained on data sets to create models that enable machines to perform tasks that would otherwise only be possible for humans, such as categorizing images, analyzing data, or predicting price fluctuations.
 
-## Types ofMachine Learning
+## Types of Machine Learning
 
 1. Supervised Machine Learning: Algorithms learn from labeled data with tags, like identifying flower types from tagged photos, to make predictions or classifications.
 
@@ -79,7 +81,5 @@ https://embeddedcomputing.com/technology/ai-machine-learning/ai-logic-devices-wo
 
 https://www.autosinnovate.org/initiatives/innovation/autonomous-vehicles/benefits-of-havs
 
-### Lat, Betina Grace C.
-### BSCS 3A
 
 # Thank you
