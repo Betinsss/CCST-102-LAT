@@ -1,8 +1,10 @@
 # CCST-102-LAT
+# Lat, Betina Grace C.
+# BSCS 3A
 
 https://github.com/user-attachments/assets/4c5a2aa7-086d-4bfa-904e-1c83a2190152
 
-##Laboratory Activities for Topic 1: Introduction to Machine Learning
+## Laboratory Activities for Topic 1: Introduction to Machine Learning
 
 Lab Activity 1: Overview of Machine Learning Applications
 Objective: Familiarize students with various applications of machine learning in real-world scenarios.
@@ -75,4 +77,4 @@ https://embeddedcomputing.com/technology/ai-machine-learning/ai-logic-devices-wo
 
 https://www.autosinnovate.org/initiatives/innovation/autonomous-vehicles/benefits-of-havs
 
-#Thank you
+# Thank you
