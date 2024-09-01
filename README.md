@@ -1,6 +1,10 @@
 # CCST-102-LAT
 
-https://github.com/user-attachments/assets/4c5a2aa7-086d-4bfa-904e-1c83a2190152
+
+
+https://github.com/user-attachments/assets/7bf417d2-d3c8-4892-9b4a-16e234a67967
+
+
 
 ## Laboratory Activities for Topic 1: Introduction to Machine Learning
 
@@ -62,7 +66,7 @@ Machine learning is a subfield of artificial intelligence that uses algorithms t
 
 **Problem being Solved:** Different types of network traffic, such as web hosting (HTTP), file transfers (FTP), secure browsing (HTTPS), video streaming (HLS), and terminal services (SSH), have distinct patterns of bandwidth usage. For instance, FTP transfers large amounts of data continuously, while video streaming uses data in chunks with buffering. When these various types of traffic run simultaneously without any management, temporary network congestion or blockages may occur.
 
-**Type of Machine Learning Used:** Unsupervised Learning
+**Type of Machine Learning Used:** Supervised Learning
 
 **Impact of the Solution:** To prevent network congestion, machine learning classifiers can analyze and identify different types of traffic. These models can then adjust network parameters, such as bandwidth allocation and data caps, to optimize performance. By intelligently scheduling requests and dynamically adjusting bandwidth, network efficiency can be significantly improved.
 Impact of the solution:
